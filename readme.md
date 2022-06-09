@@ -1,4 +1,4 @@
-# Setup to setup ground-satation
+# Setup to setup ground-station
 1. Download the github repo of CANSAT
 2. Unzip the file
 3. Upload receiver code to Ground-Satation . Remember the port number we will need it later
