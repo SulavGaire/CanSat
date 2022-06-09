@@ -1,7 +1,7 @@
 # Setup to setup ground-station
 1. Download the github repo of CANSAT
 2. Unzip the file
-3. Upload receiver code to Ground-Satation . Remember the port number we will need it later
+3. Upload receiver code to Ground-Station . Remember the port number we will need it later
 4. Open command prompt
 5. Run command :: npm install
 6. This will install require dependencies
